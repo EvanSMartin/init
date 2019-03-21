@@ -1,0 +1,2 @@
+sudo iptables -L
+# https://serverfault.com/questions/433432/how-can-i-find-firewall-rules-and-settings-via-command-line-in-linux

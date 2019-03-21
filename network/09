@@ -1,0 +1,4 @@
+echo "163.172.250.11"
+echo "163.172.250.12"
+# nslookup 42.fr 8.8.8.8
+# dig +short 42.fr @resolver1.opendns.com (external IP)

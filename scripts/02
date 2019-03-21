@@ -1,0 +1,9 @@
+crontab -l > temp
+echo "0 4 * * 1 apt-get update >> /var/log/update_script.log && apt-get upgrade >> /var/log/update_script.log" >> temp
+crontab temp
+rm temp
+# https://www.cyberciti.biz/faq/linux-update-all-packages-command/
+# https://www.computerhope.com/unix/ucrontab.htm
+# https://crontab.guru/#0_4_*_*_1
+# crontab -l to check
+# https://www.the-art-of-web.com/system/cron-apt-wheezy/

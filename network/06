@@ -1,0 +1,2 @@
+echo "/etc/resolv.conf"
+# it contains the IP address of the DNS server

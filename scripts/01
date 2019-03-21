@@ -1,0 +1,3 @@
+cat /etc/passwd | awk -F: '{print $1, $3, $7}'
+# https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/
+# https://unix.stackexchange.com/questions/101424/print-some-fields-of-etc-passwd

@@ -1,0 +1,2 @@
+ls -lS $1
+# https://unix.stackexchange.com/questions/53737/how-to-list-all-files-ordered-by-size

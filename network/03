@@ -1,0 +1,2 @@
+ifconfig en1 inet
+# https://apple.stackexchange.com/questions/25895/how-do-i-unset-an-ip-address-set-with-ifconfig

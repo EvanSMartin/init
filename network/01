@@ -1,0 +1,2 @@
+ifconfig -l
+# -l displays only the lis of interfacest

@@ -1,0 +1,2 @@
+service ssh restart
+# https://www.cyberciti.biz/faq/howto-restart-ssh/

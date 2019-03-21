@@ -1,0 +1,2 @@
+pgrep -f ssh
+# https://unix.stackexchange.com/questions/389014/getting-a-pid-for-an-ssh-process-that-backgrounded-itself?rq=1

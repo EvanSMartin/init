@@ -1,0 +1,2 @@
+echo "/etc/debian_version"
+# https://linuxconfig.org/check-what-debian-version-you-are-running-on-your-linux-system

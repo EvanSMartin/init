@@ -1,0 +1,2 @@
+pkill -f tail
+# https://www.tecmint.com/how-to-kill-a-process-in-linux/
